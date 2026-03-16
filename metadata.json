@@ -1,0 +1,5 @@
+{
+  "name": "Corporate Anthem Generator",
+  "description": "Enter a company URL to automatically generate and sing a corporate anthem using AI and Text-to-Speech.",
+  "requestFramePermissions": []
+}
